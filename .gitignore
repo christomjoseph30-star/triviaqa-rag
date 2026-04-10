@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# ChromaDB index (large, rebuild locally)
+chroma_db/
+
+# Results (generated at runtime)
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# HuggingFace cache
+.cache/
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db

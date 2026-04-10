@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-core
+sentence-transformers
+datasets
+torch
+transformers
+numpy
+pandas
+tqdm
+einops
+# llama-cpp-python must be installed manually:
+# pip install https://github.com/abetlen/llama-cpp-python/releases/download/v0.3.19/llama_cpp_python-0.3.19-cp312-cp312-win_amd64.whl
